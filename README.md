@@ -4,7 +4,8 @@ twitter scraper for data analysis (development)
 ## GOALS
 - Use python to scrap tweets with keyword:  #ANYWORD
 - Collect tweets from ANY time interval
-- Make analysis on tweet data 
+- Make analysis on tweet data
+- Make a one click version (development)
 
 ## Workflow
 1. Communicate and consider our users requirement
